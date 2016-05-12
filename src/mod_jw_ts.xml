@@ -10,6 +10,8 @@
     <version>4.0.2</version>
     <description>MOD_JW_TS_TABS_AND_SLIDERS_MODULE_BY_JOOMLAWORKS</description>
 
+    <variant>FREE</variant>
+
     <alledia>
         <element publish="true">jw_ts</element>
         <namespace>JW_TS</namespace>
