@@ -9,7 +9,7 @@ Tabs & Sliders" is the 'module' adaptation of the highly popular "Tabs & Sliders
 
 ## Requirements
 
-Joomla 1.5, 2.5, 3.x
+Joomla 3.x
 
 ## License
 
